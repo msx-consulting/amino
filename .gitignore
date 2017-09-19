@@ -1,3 +1,7 @@
+
+*.SchDocPreview
+*.PcbDocPreview
+
 History/*
 __Previews/*
 PCB/History/*
