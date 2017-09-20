@@ -223,7 +223,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GXSUUEUB
 
 [Document12]
 DocumentPath=..\..\libraries\Inductors.SchLib
@@ -242,13 +242,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBDTMCUD
 
-[Parameter1]
-Name=ProjRev
-Value=1.0
+[Document13]
+DocumentPath=..\..\libraries\Misc.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YHBTAVSL
 
-[Parameter2]
+[Parameter1]
 Name=ProjEngineer
 Value=Matt Staniszewski
+
+[Parameter2]
+Name=ProjRev
+Value=1.0
 
 [Parameter3]
 Name=XPN
