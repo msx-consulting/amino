@@ -73,24 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WOPTXHFR
 
 [Document3]
-DocumentPath=p3_intf_conn.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EMVQXCUE
-
-[Document4]
-DocumentPath=p4_pwr_misc.SchDoc
+DocumentPath=p3_intf_conn_pwr.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXBGADXP
 
-[Document5]
+[Document4]
 DocumentPath=..\..\libraries\Capacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=..\..\libraries\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=..\..\libraries\Diodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=..\..\libraries\Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBSJMLBW
 
-[Document9]
+[Document8]
 DocumentPath=..\..\libraries\ICs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,9 +172,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LPHGHSJP
 
-[Document10]
+[Document9]
 DocumentPath=..\..\libraries\Oscillators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=..\..\libraries\Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GXSUUEUB
 
-[Document12]
+[Document11]
 DocumentPath=..\..\libraries\Inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBDTMCUD
 
-[Document13]
+[Document12]
 DocumentPath=..\..\libraries\Misc.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
