@@ -259,21 +259,38 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document14]
+DocumentPath=amino.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HAMECWYF
+
 [GeneratedDocument1]
 DocumentPath=Output\amINO_netlist_v1.0.NET
 DItemRevisionGUID=
 
 [Parameter1]
-Name=XPN
-Value=amINO
+Name=ProjEngineer
+Value=Matt Staniszewski
 
 [Parameter2]
 Name=ProjRev
 Value=1.0.1
 
 [Parameter3]
-Name=ProjEngineer
-Value=Matt Staniszewski
+Name=XPN
+Value=amINO
 
 [Configuration1]
 Name=Sources
