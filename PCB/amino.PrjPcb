@@ -104,7 +104,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YHDJSPEM
 
 [Document5]
 DocumentPath=..\..\libraries\Connectors.SchLib
@@ -280,17 +280,21 @@ DocumentUniqueId=HAMECWYF
 DocumentPath=Output\amINO_netlist_v1.0.NET
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for amino\Design Rule Check - amino.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=ProjEngineer
-Value=Matt Staniszewski
+Name=XPN
+Value=amINO
 
 [Parameter2]
 Name=ProjRev
-Value=1.0.1
+Value=1.0.2
 
 [Parameter3]
-Name=XPN
-Value=amINO
+Name=ProjEngineer
+Value=Matt Staniszewski
 
 [Configuration1]
 Name=Sources
