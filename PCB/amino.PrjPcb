@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for amino
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -277,24 +277,144 @@ GenerateClassCluster=0
 DocumentUniqueId=HAMECWYF
 
 [GeneratedDocument1]
-DocumentPath=Output\amINO_netlist_v1.0.NET
+DocumentPath=SierraCircuits_Release\amino_1.0.2\NC Drill\amino.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\NC Drill\amino.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\amino.REP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\NC Drill\amino.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\Report Board Stack\amino.xls
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=.\Output\amINO_netlist_v1.0.2.NET
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Output\amINO_netlist_v1.0.NET
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\BOM\Bill of Materials-amino.csv
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument12]
 DocumentPath=Project Outputs for amino\Design Rule Check - amino.html
 DItemRevisionGUID=
 
+[GeneratedDocument13]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l1_-_sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l2_-_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l3_-_sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l4_-_sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l5_-_pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l6_-_sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
 [Parameter1]
-Name=XPN
-Value=amINO
+Name=ProjEngineer
+Value=Matt Staniszewski
 
 [Parameter2]
 Name=ProjRev
 Value=1.0.2
 
 [Parameter3]
-Name=ProjEngineer
-Value=Matt Staniszewski
+Name=XPN
+Value=amINO
 
 [Configuration1]
 Name=Sources
@@ -307,7 +427,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for amino
 
 [OutputGroup1]
 Name=Netlist Outputs

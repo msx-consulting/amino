@@ -1,0 +1,76 @@
+*************************************************************
+FileName = amino.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\matrix\matrix
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\profile
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l1_-_sig\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l1_-_sig\attrlist
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l2_-_gnd\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l2_-_gnd\attrlist
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l3_-_sig\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l3_-_sig\attrlist
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l4_-_sig\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l4_-_sig\attrlist
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l5_-_pwr\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l5_-_pwr\attrlist
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l6_-_sig\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\l6_-_sig\attrlist
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\git\msx\amino\PCB\SierraCircuits_Release\amino_1.0.2\ODB\odb\steps\pcb\eda\data
+
