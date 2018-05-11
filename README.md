@@ -1,2 +1,2 @@
-# amino
-amINO Arduino-Like Development Board
+# mom
+Microcontrollers on Module (MoM)
