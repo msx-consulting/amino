@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MUCCHLNJ
 
 [Document2]
-DocumentPath=p2_mcu_ble.SchDoc
+DocumentPath=p2_mcu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -258,25 +258,21 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Output\amINO_netlist_v1.0.2.NET
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Output\amINO_netlist_v1.0.NET
-DItemRevisionGUID=
-
 [Parameter1]
-Name=ProjEngineer
-Value=Matt Staniszewski
+Name=
+Value=
 
 [Parameter2]
-Name=ProjRev
-Value=1.0.3
+Name=XPN
+Value=MoM-S
 
 [Parameter3]
-Name=XPN
-Value=amINO
+Name=ProjRev
+Value=1.0.0
+
+[Parameter4]
+Name=ProjEngineer
+Value=Matt Staniszewski
 
 [Configuration1]
 Name=Sources
