@@ -1,10 +1,11 @@
-# Altium Files
-History
-__Previews
-*.PrjPCBStructure
-*.PrjPcbStructure
+# EAGLE backup files
+*.b#*
 
-*.SchDocPreview
-*.PcbDocPreview
-Project Outputs for *
-Project Logs for *
+# Altium files
+History/
+__Previews/
+Project Logs for */
+Project Outputs for */
+
+# Open documents
+~$*.*

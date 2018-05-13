@@ -258,6 +258,16 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=5AD7F987-E58E-444B-8382-CE31CF480364
+Description=Default
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=R?|UniqueId=\BUCQJMAA|Kind=1|AlternatePart= 
+Variation2=Designator=R?|UniqueId=\NSOVWBUL|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [Parameter1]
 Name=
 Value=
