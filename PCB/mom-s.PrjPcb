@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for mom-s
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -286,24 +286,20 @@ Variation2=Designator=R?|UniqueId=\NSOVWBUL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=.\Output\MoM-S_netlist_v1.0.0.NET
+DocumentPath=Output\MoM-S_netlist_v1.0.0.NET
 DItemRevisionGUID=
 
 [Parameter1]
-Name=
-Value=
+Name=ProjEngineer
+Value=Matt Staniszewski
 
 [Parameter2]
-Name=XPN
-Value=MoM-S
-
-[Parameter3]
 Name=ProjRev
 Value=1.0.0
 
-[Parameter4]
-Name=ProjEngineer
-Value=Matt Staniszewski
+[Parameter3]
+Name=XPN
+Value=MoM-S
 
 [Configuration1]
 Name=Sources
@@ -316,7 +312,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for mom-s
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
