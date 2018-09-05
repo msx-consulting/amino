@@ -290,15 +290,11 @@ DocumentPath=Output\MoM-S1_netlist_v1.0.2.NET
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=.\Output\MoM-S1_netlist_v1.0.3.NET
+DocumentPath=Output\MoM-S1_netlist_v1.0.3.NET
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Output\MoM-S_netlist_v1.0.0.NET
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Output\MoM-S_netlist_v1.0.1.NET
+DocumentPath=.\Output\MoM-S1_netlist_v1.0.4.NET
 DItemRevisionGUID=
 
 [Parameter1]
@@ -307,7 +303,7 @@ Value=MoM-S1
 
 [Parameter2]
 Name=ProjRev
-Value=1.0.3
+Value=1.0.4
 
 [Parameter3]
 Name=ProjEngineer
