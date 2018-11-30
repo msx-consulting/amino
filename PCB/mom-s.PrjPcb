@@ -12,8 +12,8 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
-AllowSheetEntryNetNames=1
+AllowPortNetNames=1
+AllowSheetEntryNetNames=0
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
 DefaultConfiguration=Sources
@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=p1_title_toc.SchDoc
+DocumentPath=top_title_toc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MUCCHLNJ
 
 [Document2]
-DocumentPath=p2_mcu.SchDoc
+DocumentPath=mcu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WOPTXHFR
 
 [Document3]
-DocumentPath=p3_intf_conn_pwr.SchDoc
+DocumentPath=intf_conn_pwr.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -281,8 +281,8 @@ Description=Default
 AllowFabrication=0
 ParameterCount=0
 VariationCount=2
-Variation1=Designator=R6|UniqueId=\BUCQJMAA|Kind=1|AlternatePart= 
-Variation2=Designator=R12|UniqueId=\NSOVWBUL|Kind=1|AlternatePart= 
+Variation1=Designator=R6|UniqueId=\GGXHGJJN\BUCQJMAA|Kind=1|AlternatePart= 
+Variation2=Designator=R12|UniqueId=\YNJVNKHE\NSOVWBUL|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -294,7 +294,11 @@ DocumentPath=Output\MoM-S1_netlist_v1.0.3.NET
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=.\Output\MoM-S1_netlist_v1.0.4.NET
+DocumentPath=Output\MoM-S1_netlist_v1.0.4.NET
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=.\Output\MoM-S1_netlist_v1.0.5.NET
 DItemRevisionGUID=
 
 [Parameter1]
@@ -303,7 +307,7 @@ Value=MoM-S1
 
 [Parameter2]
 Name=ProjRev
-Value=1.0.4
+Value=1.0.5
 
 [Parameter3]
 Name=ProjEngineer

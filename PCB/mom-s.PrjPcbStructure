@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=p1_title_toc.SchDoc
+Record=TopLevelDocument|FileName=top_title_toc.SchDoc
+Record=SheetSymbol|SourceDocument=top_title_toc.SchDoc|Designator=Interface and Power|SchDesignator=Interface and Power|FileName=intf_conn_pwr.SchDoc|SymbolType=Normal|RawFileName=intf_conn_pwr.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top_title_toc.SchDoc|Designator=Microcontroller|SchDesignator=Microcontroller|FileName=mcu.SchDoc|SymbolType=Normal|RawFileName=mcu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
